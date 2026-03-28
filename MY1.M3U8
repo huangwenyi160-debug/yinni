@@ -3,44 +3,221 @@
 ###########################
 # Malaysia Channels
 ###########################
-#EXTINF:-1 tvg-id="MY_TV1" tvg-name="TV1" tvg-country="MY" group-title="Malaysia",TV1
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+#EXTINF:-1 tvg-id="MY_TV1" tvg-name="TV1 Malaysia" tvg-country="MY" group-title="Malaysia",TV1
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
-#EXTINF:-1 tvg-id="MY_TV2" tvg-name="TV2" tvg-country="MY" group-title="Malaysia",TV2
+
+#EXTINF:-1 tvg-id="MY_TV2" tvg-name="TV2 Malaysia" tvg-country="MY" group-title="Malaysia",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b346000_slENG.m3u8?id=2
-#EXTINF:-1 tvg-id="MY_OKTV" tvg-name="OKTV" tvg-country="MY" group-title="Malaysia",OKTV
+
+#EXTINF:-1 tvg-id="MY_OKTV" tvg-name="OKTV Malaysia" tvg-country="MY" group-title="Malaysia",OKTV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
 #EXTINF:-1 tvg-id="MY_BeritaRTM" tvg-name="Berita RTM" tvg-country="MY" group-title="Malaysia",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
+
 #EXTINF:-1 tvg-id="MY_SukanRTM" tvg-name="Sukan RTM" tvg-country="MY" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b596000_slENG.m3u8?id=4
-#EXTINF:-1 tvg-id="MY_TV6" tvg-name="TV6" tvg-country="MY" group-title="Malaysia",TV6
+
+#EXTINF:-1 tvg-id="MY_TV6" tvg-name="TV6 Malaysia" tvg-country="MY" group-title="Malaysia",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1096000_slENG.m3u8?id=6
+
 #EXTINF:-1 tvg-id="MY_RTMAsean_1096" tvg-name="RTM Asean SD" tvg-country="MY" group-title="Malaysia",RTM Asean SD
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_RTMAsean_2596" tvg-name="RTM Asean HD" tvg-country="MY" group-title="Malaysia",RTM Asean HD
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_DewanNegara_796" tvg-name="Dewan Negara SD" tvg-country="MY" group-title="Malaysia",Dewan Negara SD
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b796000_slENG.m3u8?id=8
+
 #EXTINF:-1 tvg-id="MY_DewanNegara_1096" tvg-name="Dewan Negara HD" tvg-country="MY" group-title="Malaysia",Dewan Negara HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b1096000_slENG.m3u8?id=8
+
 #EXTINF:-1 tvg-id="MY_DewanNegara_796_2" tvg-name="Dewan Negara SD" tvg-country="MY" group-title="Malaysia",Dewan Negara SD
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b796000_slENG.m3u8?id=8
+
 #EXTINF:-1 tvg-id="MY_DewanRakyat" tvg-name="Dewan Rakyat" tvg-country="MY" group-title="Malaysia",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?id=7
+
 #EXTINF:-1 tvg-id="MY_Roll" tvg-name="Roll" tvg-country="MY" group-title="Malaysia",Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b1096000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_Snap" tvg-name="Snap" tvg-country="MY" group-title="Malaysia",Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b596000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_Apetito" tvg-name="Apetito" tvg-country="MY" group-title="Malaysia",Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_Lead" tvg-name="Lead" tvg-country="MY" group-title="Malaysia",Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_Aura" tvg-name="Aura" tvg-country="MY" group-title="Malaysia",Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_Fitrah" tvg-name="Fitrah" tvg-country="MY" group-title="Malaysia",Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:-1 tvg-id="MY_JR" tvg-name="JR." tvg-country="MY" group-title="Malaysia",JR.
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_SLENG.m3u8
+
+#EXTINF:-1 tvg-name="2016 EURO 1" tvg-country="MY" group-title="Malaysia",2016 EURO 1
+https://t.freetv.fun/live/cna-4.m3u8
+
+#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="MY" group-title="Malaysia",8TV
+https://t.freetv.fun/live/ba-du-kong-jian-ee.php
+
+#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="MY" group-title="Malaysia",ASTRO AOD 311
+https://t.freetv.fun/live/astro-aod.m3u8
+
+#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="MY" group-title="Malaysia",ASTRO AOD 311
+https://t.freetv.fun/live/astro-aod-b.m3u8
+
+#EXTINF:-1 tvg-name="ASTRO AURA HD" tvg-id="3770" tvg-country="MY" group-title="Malaysia",ASTRO AURA HD
+https://t.freetv.fun/live/aura.m3u8
+
+#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="MY" group-title="Malaysia",ASTRO AWANI
+https://t.freetv.fun/live/astro-awani-tt.m3u8
+
+#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="MY" group-title="Malaysia",ASTRO AWANI
+https://t.freetv.fun/live/astro-awani-tv.ts
+
+#EXTINF:-1 tvg-name="ASTRO PRIMA" tvg-id="3158" tvg-country="MY" group-title="Malaysia",ASTRO PRIMA
+https://t.freetv.fun/live/prima-2.m3u8
+
+#EXTINF:-1 tvg-name="ASTRO 華麗" tvg-id="2524" tvg-country="MY" group-title="Malaysia",ASTRO 華麗
+https://t.freetv.fun/live/astrohua-li-tai-b.m3u8
+
+#EXTINF:-1 tvg-name="Astro AEC" tvg-id="2226" tvg-country="MY" group-title="Malaysia",Astro AEC
+https://t.freetv.fun/live/astroaec-1.m3u8
+
+#EXTINF:-1 tvg-name="Astro AEC" tvg-id="2226" tvg-country="MY" group-title="Malaysia",Astro AEC
+https://t.freetv.fun/live/astro-aec-b.m3u8
+
+#EXTINF:-1 tvg-name="Astro AWANI FHD" tvg-id="3958" tvg-country="MY" group-title="Malaysia",Astro AWANI FHD
+https://t.freetv.fun/live/astro-awani-2.m3u8
+
+#EXTINF:-1 tvg-name="Astro AWANI FHD" tvg-id="3958" tvg-country="MY" group-title="Malaysia",Astro AWANI FHD
+https://t.freetv.fun/live/astro-awani-1.m3u8
+
+#EXTINF:-1 tvg-name="Astro AWANI FHD" tvg-id="3958" tvg-country="MY" group-title="Malaysia",Astro AWANI FHD
+https://t.freetv.fun/live/astro-awani-2.m3u8
+
+#EXTINF:-1 tvg-name="Astro AWANI FHD" tvg-id="3958" tvg-country="MY" group-title="Malaysia",Astro AWANI FHD
+https://t.freetv.fun/live/astro-awani-a.m3u8
+
+#EXTINF:-1 tvg-name="Astro AWANI FHD" tvg-id="3958" tvg-country="MY" group-title="Malaysia",Astro AWANI FHD
+https://t.freetv.fun/live/astroawani.m3u8
+
+#EXTINF:-1 tvg-name="Astro TVS" tvg-id="3942" tvg-country="MY" group-title="Malaysia",Astro TVS
+https://t.freetv.fun/live/tvs.m3u8
+
+#EXTINF:-1 tvg-name="Astro TVS" tvg-id="3942" tvg-country="MY" group-title="Malaysia",Astro TVS
+https://t.freetv.fun/live/tvs-1.m3u8
+
+#EXTINF:-1 tvg-name="Astro 歡喜臺" tvg-id="1951" tvg-country="MY" group-title="Malaysia",Astro 歡喜臺
+https://t.freetv.fun/live/astrohuan-xi.m3u8
+
+#EXTINF:-1 tvg-name="Astro 歡喜臺" tvg-id="1951" tvg-country="MY" group-title="Malaysia",Astro 歡喜臺
+https://t.freetv.fun/live/astro-huan-xi-b.m3u8
+
+#EXTINF:-1 tvg-name="Awesome tv" tvg-country="MY" group-title="Malaysia",Awesome tv
+https://t.freetv.fun/live/people-are-awesome-1.m3u8
+
+#EXTINF:-1 tvg-name="Awesome tv" tvg-country="MY" group-title="Malaysia",Awesome tv
+https://t.freetv.fun/live/people-are-awesome-2.m3u8
+
+#EXTINF:-1 tvg-name="Berita RTM" tvg-id="370132" tvg-country="MY" group-title="Malaysia",Berita RTM
+https://t.freetv.fun/live/berita-rtm.m3u8
+
+#EXTINF:-1 tvg-name="Bernama TV" tvg-id="1835" tvg-country="MY" group-title="Malaysia",Bernama TV
+https://t.freetv.fun/live/bergamo-tv.m3u8
+
+#EXTINF:-1 tvg-name="Mara TV" tvg-country="MY" group-title="Malaysia",Mara TV
+https://t.freetv.fun/live/marka-tv.m3u8
+
+#EXTINF:-1 tvg-name="Mara TV" tvg-country="MY" group-title="Malaysia",Mara TV
+https://t.freetv.fun/live/arax-tv.m3u8
+
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="MY" group-title="Malaysia",Premier Sports
+https://t.freetv.fun/live/premier-sports-2.m3u8
+
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="MY" group-title="Malaysia",Premier Sports
+https://t.freetv.fun/live/premier-sports-1.m3u8
+
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="MY" group-title="Malaysia",Premier Sports
+https://t.freetv.fun/live/premier-sports-1-1.m3u8
+
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="MY" group-title="Malaysia",Premier Sports
+https://t.freetv.fun/live/premier-sports-2-1.m3u8
+
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="MY" group-title="Malaysia",Premier Sports
+https://t.freetv.fun/live/ch-ng-premier-sports-1.m3u8
+
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="MY" group-title="Malaysia",Premier Sports
+https://t.freetv.fun/live/premier-sports.m3u8
+
+#EXTINF:-1 tvg-name="RTM Parlimen" tvg-country="MY" group-title="Malaysia",RTM Parlimen
+https://t.freetv.fun/live/rtm-parlimen.m3u8
+
+#EXTINF:-1 tvg-name="RTM Parlimen" tvg-country="MY" group-title="Malaysia",RTM Parlimen
+https://t.freetv.fun/live/rtm-parlimen-1.m3u8
+
+#EXTINF:-1 tvg-name="Sukan RTM" tvg-id="370133" tvg-country="MY" group-title="Malaysia",Sukan RTM
+https://t.freetv.fun/live/sukan-rtm-tt.m3u8
+
+#EXTINF:-1 tvg-name="Sukan RTM" tvg-id="370133" tvg-country="MY" group-title="Malaysia",Sukan RTM
+https://t.freetv.fun/live/sukan-rtm-tv.ts
+
+#EXTINF:-1 tvg-name="TV1" tvg-id="3683" tvg-country="MY" group-title="Malaysia",TV1
+https://t.freetv.fun/live/tvp1.m3u8
+
+#EXTINF:-1 tvg-name="TV1" tvg-id="3683" tvg-country="MY" group-title="Malaysia",TV1
+https://t.freetv.fun/live/tv1-2.m3u8
+
+#EXTINF:-1 tvg-name="TV1" tvg-id="3683" tvg-country="MY" group-title="Malaysia",TV1
+https://t.freetv.fun/live/tv15.m3u8
+
+#EXTINF:-1 tvg-name="TV1 Malaysia" tvg-country="MY" group-title="Malaysia",TV1 Malaysia
+https://t.freetv.fun/live/tv-1-tv.ts
+
+#EXTINF:-1 tvg-name="TV2" tvg-id="3711" tvg-country="MY" group-title="Malaysia",TV2
+https://t.freetv.fun/live/tv2.m3u8
+
+#EXTINF:-1 tvg-name="TV9" tvg-id="902" tvg-country="MY" group-title="Malaysia",TV9
+https://t.freetv.fun/live/tv9-2.m3u8
+
+#EXTINF:-1 tvg-name="TVi(MAS)" tvg-country="MY" group-title="Malaysia",TVi(MAS)
+https://t.freetv.fun/live/tvi.m3u8
+
+#EXTINF:-1 tvg-name="TVi(MAS)" tvg-country="MY" group-title="Malaysia",TVi(MAS)
+https://t.freetv.fun/live/tvi-1.m3u8
+
+#EXTINF:-1 tvg-name="Tara HD" tvg-country="MY" group-title="Malaysia",Tara HD
+https://t.freetv.fun/live/tarab.m3u8
+
+#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-country="MY" group-title="Malaysia",天映經典(MAS)
+https://t.freetv.fun/live/tian-ying-jing-dian.m3u8
+
+#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-country="MY" group-title="Malaysia",天映經典(MAS)
+https://t.freetv.fun/live/tian-ying-jing-dian-1.m3u8
+
+#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-country="MY" group-title="Malaysia",天映經典(MAS)
+https://t.freetv.fun/live/tian-ying-jing-dian-2.m3u8
+
+#EXTINF:-1 tvg-name="天映頻道(MAS)" tvg-country="MY" group-title="Malaysia",天映頻道(MAS)
+https://t.freetv.fun/live/tian-ying.m3u8
+
+#EXTINF:-1 tvg-name="天映頻道(MAS)" tvg-country="MY" group-title="Malaysia",天映頻道(MAS)
+https://t.freetv.fun/live/tian-ying-1.m3u8
+
+#EXTINF:-1 tvg-name="天映頻道(MAS)" tvg-country="MY" group-title="Malaysia",天映頻道(MAS)
+https://t.freetv.fun/live/tian-ying-b.m3u8
+
+#EXTINF:-1 tvg-name="愛奇藝" tvg-id="3290" tvg-country="MY" group-title="Malaysia",愛奇藝
+https://t.freetv.fun/live/ai-qi-yi-ee.php
+
 
 
 ###########################
