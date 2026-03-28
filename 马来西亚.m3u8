@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MYTV2" tvg-name="TV2 Malaysia" tvg-country="MY" group-title="马来西亚·直播频道",马来西亚TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b346000_slENG.m3u8?id=2
+#EXTINF:-1 tvg-id="MYOkey" tvg-name="Okey Malaysia" tvg-country="MY" group-title="马来西亚·直播频道",马来西亚Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b796000_slENG.m3u8?id=3
+#EXTINF:-1 tvg-id="MY1080P" tvg-name="1080P HD Video" tvg-country="MY" group-title="马来西亚·点播资源",1080P高清点播
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
